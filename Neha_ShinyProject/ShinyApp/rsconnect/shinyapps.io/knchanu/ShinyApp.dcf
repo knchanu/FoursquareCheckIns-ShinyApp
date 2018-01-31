@@ -1,0 +1,13 @@
+name: ShinyApp
+title: ShinyApp
+username:
+account: knchanu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 267049
+bundleId: 1200373
+url: https://knchanu.shinyapps.io/ShinyApp/
+when: 1517372238.90038
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
